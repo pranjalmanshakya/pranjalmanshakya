@@ -19,4 +19,4 @@ Python · PyTorch · pandas · scikit-learn · FastAPI · SQL · GAP · Lean 4 �
 
 ## Get in touch
 
-📧 studentpranjal321@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/pranjalshakya)
+📧 pranjal.m.shakya@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/pranjalshakya)
